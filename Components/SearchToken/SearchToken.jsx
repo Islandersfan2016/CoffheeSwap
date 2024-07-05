@@ -12,7 +12,7 @@ const SearchToken = ({ openToken, tokens, tokenData }) => {
   const coin = [
     {
       img: images.ether,
-      name: "ANKR",
+      name: "FIL",
     },
     {
       img: images.ether,
@@ -45,6 +45,10 @@ const SearchToken = ({ openToken, tokens, tokenData }) => {
     {
       img: images.ether,
       name: "TRB",
+    },
+    {
+      img: images.ether,
+      name: "ANKR",
     },
     {
       img: images.ether,
