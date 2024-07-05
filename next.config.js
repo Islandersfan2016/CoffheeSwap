@@ -1,12 +1,11 @@
 /** @type {import('next').NextConfig} */
-module.exports = {
-  trailingSlash: true,
+const nextConfig = {
+  output: 'export',
+  reactStrictMode: true,
   images: {
     unoptimized: true,
   },
-  exportPathMap: function() {
-    return {
-      '/': { page: '/' }
-    };
-  }     
- };
+  trailingSlash: true,
+};
+
+module.exports = nextConfig;
