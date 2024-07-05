@@ -16,18 +16,18 @@ const PoolConnect = () => {
 
         <div className={Style.PoolConnect_box_Middle}>
           <Image src={images.wallet} alt="wallet" height={80} width={80} />
-          <p>Your active Jackrabbit liquidity positions will appear here.</p>
+          <p>Your active Coffhee liquidity positions will appear here.</p>
           <button>Connect Wallet</button>
         </div>
 
         <div className={Style.PoolConnect_box_info}>
           <div className={Style.PoolConnect_box_info_left}>
             <h5>Learn about providing liquidity</h5>
-            <p>Check out our Jackrabbit LP walkthrough and migrate guide</p>
+            <p>Check out our Coffhee LP walkthrough and migrate guide</p>
           </div>
           <div className={Style.PoolConnect_box_info_right}>
             <h5>Top pools</h5>
-            <p>Explore Jackrabbit Analytics</p>
+            <p>Explore Coffhee Analytics</p>
           </div>
         </div>
       </div>
