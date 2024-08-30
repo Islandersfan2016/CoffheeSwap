@@ -11,8 +11,8 @@ const Tokens = () => {
     {
       number: 1,
       image: images.etherlogo,
-      name: "Ether",
-      symbol: "ETH",
+      name: "Ankr",
+      symbol: "ANKR",
       price: "$1,732.86",
       change: "- 0.31",
       tvl: "$2,000,337,780",
@@ -41,8 +41,8 @@ const Tokens = () => {
     {
       number: 4,
       image: images.etherlogo,
-      name: "Filecoin",
-      symbol: "FIL",
+      name: "Ether",
+      symbol: "ETH",
       price: "$5.40",
       change: "+ 0.01",
       tvl: "$2,217,237,256",
