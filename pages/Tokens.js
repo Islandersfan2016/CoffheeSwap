@@ -88,7 +88,7 @@ const Tokens = () => {
   return (
     <div className={Style.Tokens}>
       <div className={Style.Tokens_box}>
-        <h2>Top tokens on Jackrabbit</h2>
+        <h2>Top Tokens on Coffhee</h2>
         <div className={Style.Tokens_box_header}>
           <div className={Style.Tokens_box_ethereum}>
             <p>
