@@ -33,7 +33,7 @@ const Model = ({ setOpenModel, connectWallet }) => {
         </div>
 
         <p className={Style.Model_box_para}>
-          By connecting a wallet, you agree to Jackrabbit Finance's
+          By connecting a wallet, you agree to Coffhee's
           <br /> Terms of Service and consent to its Privacy Policy.
         </p>
       </div>
