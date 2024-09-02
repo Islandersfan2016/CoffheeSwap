@@ -54,7 +54,7 @@ const HeroSection = ({ tokenData }) => {
               height={20}
               alt="ether"
             />
-            {tokenOne.name || "FIL"}
+            {tokenOne.name || "ANKR"}
             <small>{ether.slice(0, 7)}</small>
           </button>
         </div>
