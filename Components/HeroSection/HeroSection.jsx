@@ -33,7 +33,7 @@ const HeroSection = ({ tokenData }) => {
     <div className={Style.HeroSection}>
       <div className={Style.HeroSection_box}>
         <div className={Style.HeroSection_box_heading}>
-          <p>Swap</p>
+          <p>Swap on Neura</p>
           <div className={Style.HeroSection_box_heading_img}>
             <Image
               src={images.close}
